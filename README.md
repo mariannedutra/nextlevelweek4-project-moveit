@@ -9,3 +9,9 @@ MoveIt é o nome da aplicação, e ela tem por objetivos marcar os ciclos de uma
 No primeiro dia trabalhamos com a apresentação do ambiente de desenvolvimento React.JS, onde foram mostrados os conceitos de componentes, propriedades e estados.
 Também fizemos algumas inserções de parâmetros de cores e tamannhos que serão utilizados ao longo do projeto.
 Foi implementada o escopo já bem elaborado na barra de carregamento que ficará no papel de 'header'. 
+
+
+-----------------------------------------------------------
+
+
+Agora no segundo dia criamos um novo projeto, mas dessa vez iniciamos ele com o Next.JS e não com o Create React App (Por hora)
