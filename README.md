@@ -1,34 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Esse projeto será deselvolvido ao longo do evento NextLevelWeek da Rocketseat! <3
 
-## Getting Started
+Será desenvolvida nele uma Aplicação Web aplicando conceitos e ferramentas com React.JS, TypeScript, Next.JS, entre outras ferramentas que irei atualizando por aqui.
 
-First, run the development server:
+MoveIt é o nome da aplicação, e ela tem por objetivos marcar os ciclos de uma técnica de concentração chamada Pomodoro, e juntar a pausa feita a cada determinado perioódo de tempo com a prática de algum alongamento ou atividade física.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+-----------------------------------------------------------
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+No primeiro dia trabalhamos com a apresentação do ambiente de desenvolvimento React.JS, onde foram mostrados os conceitos de componentes, propriedades e estados.
+Também fizemos algumas inserções de parâmetros de cores e tamannhos que serão utilizados ao longo do projeto.
+Foi implementada o escopo já bem elaborado na barra de carregamento que ficará no papel de 'header'. 
