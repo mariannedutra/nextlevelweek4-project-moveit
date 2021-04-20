@@ -125,5 +125,4 @@ export function ChallengesProvider({
             { isLevelModalUpOpen && <LevelUpModal /> }
         </ChallengesContext.Provider>
     );
-
 }

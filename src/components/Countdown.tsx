@@ -12,7 +12,7 @@ export function Countdown() {
     hasFinished,
     isActive,
     startCountdown,
-    resetConuntdown
+    resetCountdown
   } = useContext(CountdownContext)
 
   const [minuteLeft, minuteRight] = String(minutes).padStart(2, "0").split("");
@@ -37,7 +37,7 @@ export function Countdown() {
         <button
           disabled
           className={styles.countdownButton}
-          onClick={resetConuntdown}
+          onClick={resetCountdown}
         >
           Ciclo encerrado
         </button>
@@ -47,7 +47,7 @@ export function Countdown() {
         <button
           type="button"
           className={`${styles.countdownButton} ${styles.countdownButtonActive}`}
-          onClick={resetConuntdown}
+          onClick={resetCountdown}
         >
           Abandonar ciclo
         </button>
